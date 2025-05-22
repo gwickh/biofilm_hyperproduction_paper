@@ -1,0 +1,7 @@
+library(emmeans)
+library(readxl)
+library(effectsize)
+library(effsize)
+library(tidyverse)
+
+setwd("~/Library/CloudStorage/OneDrive-NorwichBioscienceInstitutes/Data/PhD/Exp2. Biofilm Hyperproduction/")
